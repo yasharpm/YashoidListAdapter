@@ -10,8 +10,8 @@ ext {
 
     libraryDescription = 'Helper library for setting up list adapters.'
 
-    siteUrl = 'https://github.com/yasharpm/Network'
-    gitUrl = 'https://github.com/yasharpm/Network.git'
+    siteUrl = 'https://github.com/yasharpm/YashoidListAdapter'
+    gitUrl = 'https://github.com/yasharpm/YashoidListAdapter.git'
 
     libraryVersion = '1.0.0'
 
